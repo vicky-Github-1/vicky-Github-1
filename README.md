@@ -10,7 +10,7 @@
 
 * 🎓 B.Tech CSE (AI) student at Kanpur University
 * 💼 Full Stack Developer Intern at RDSO, Lucknow
-* 🧠 Solved 250+ DSA problems on (LeetCode + CodeChef)
+* 🧠 Solved 300+ DSA problems on (LeetCode + CodeChef)
 * 🏆 3rd Prize Winner – National Level Hackathon (Team Leader)
 
 ---
@@ -62,7 +62,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/ShubhGPT/?theme=dark&font=baloo&ext=heatmap">
+  <img src="https://leetcard.jacoblin.cool/ShubhGPT?theme=dark&font=baloo&ext=heatmap">
 </p>
 
 ---
