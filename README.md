@@ -1,7 +1,7 @@
 # Hi, I'm Shubham Gupta 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+%7C+Machine+Learning;Building+Scalable+Projects;250%2B+LeetCode+Problems;100%2B+CodeChef+Problems&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+%7C+Machine+Learning;Building+Scalable+Projects;300%2B+DSA+Problems&center=true&width=500&height=50&color=00F7FF&size=22">
 </p>
 
 ---
