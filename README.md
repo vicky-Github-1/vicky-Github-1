@@ -53,8 +53,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vicky-Github-1&show_icons=true&theme=tokyonight" height="150">
-   <img src="https://streak-stats.demolab.com?user=vicky-Github-1&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=vicky-Github-1&show_icons=true&theme=tokyonight&hide_border=true" height="150">
+  <img src="https://streak-stats.demolab.com?user=vicky-Github-1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150">
 </p>
 
 ---
@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://www.codechef.com/users/shubh_gupta23">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
+    <img src="https://img.shields.io/badge/CodeChef%20Profile-View-orange?style=for-the-badge&logo=codechef&logoColor=white">
   </a>
 </p>
 
