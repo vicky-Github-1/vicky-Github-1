@@ -58,11 +58,13 @@
 
 ---
 
-## 🧠 Coding Profiles
+## 🧠 LeetCode Profiles
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ShubhGPT?theme=dark&font=baloo&ext=heatmap" height="200">
 </p>
+
+## 🧠 CodeChef Profiles
 
 <p align="center">
   <a href="https://www.codechef.com/users/shubh_gupta23">
