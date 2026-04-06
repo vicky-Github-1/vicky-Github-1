@@ -1,4 +1,4 @@
-# Hi, I'm Vicky (Shubham Gupta) 👋
+# Hi, I'm Shubham Gupta
 
 💻 Full Stack Developer | MERN + Django | ML Enthusiast
 🚀 Building scalable real-world applications with a focus on performance and problem-solving
