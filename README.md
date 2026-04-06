@@ -63,8 +63,11 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ShubhGPT?theme=dark&font=baloo&ext=heatmap" height="200">
+</p>
+
+<p align="center">
   <a href="https://www.codechef.com/users/shubh_gupta23">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
   </a>
 </p>
 
