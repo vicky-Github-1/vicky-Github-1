@@ -1,7 +1,7 @@
 # Hi, I'm Shubham Gupta 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+%7C+Django+%7C+Machine+Learning;Building+Scalable+Projects;250%2B+DSA+Problems+Solved&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+%7C+Machine+Learning;Building+Scalable+Projects;250%2B+LeetCode+Problems;100%2B+CodeChef+Problems&center=true&width=500&height=50">
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 * 🎓 B.Tech CSE (AI) student at Kanpur University
 * 💼 Full Stack Developer Intern at RDSO, Lucknow
-* 🧠 Solved 250+ DSA problems on LeetCode
+* 🧠 Solved 250+ DSA problems on (LeetCode + CodeChef)
 * 🏆 3rd Prize Winner – National Level Hackathon (Team Leader)
 
 ---
@@ -54,7 +54,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vicky-Github-1&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vicky-Github-1&theme=tokyonight" height="150">
+   <img src="https://streak-stats.demolab.com?user=vicky-Github-1&theme=tokyonight" height="150">
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/[YOUR_LEETCODE_USERNAME](https://leetcode.com/u/ShubhGPT/)?theme=dark&font=baloo&ext=heatmap">
+  <img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/ShubhGPT/?theme=dark&font=baloo&ext=heatmap">
 </p>
 
 ---
