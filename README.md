@@ -1,7 +1,8 @@
-# Hi, I'm Shubham Gupta
+# Hi, I'm Shubham Gupta 
 
-💻 Full Stack Developer | MERN + Django | ML Enthusiast
-🚀 Building scalable real-world applications with a focus on performance and problem-solving
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+%7C+Django+%7C+Machine+Learning;Building+Scalable+Projects;250%2B+DSA+Problems+Solved&center=true&width=500&height=50">
+</p>
 
 ---
 
@@ -26,26 +27,43 @@
 
 ## 🚀 Featured Projects
 
+### 📡 Emergency Communication Network
+
+* Android-based offline communication system
+* Enabled SOS messaging without internet
+ 
 ### 🚆 Train Maintenance Prediction System
 
 * Built ML-based predictive system using Random Forest (85% accuracy)
 * Automated task assignment based on risk levels
-* Implemented Admin & Engineer dashboards
+* Admin & Engineer dashboards
 
 ### 🛒 csjmucart – Hostel Marketplace
 
 * Full-stack e-commerce platform with authentication & CRUD
-* Live production project with responsive UI
+* Live production-ready project
 
 ### 🍽 Hostel Mess Management System
 
 * Role-based system for students & admin
 * REST APIs for meal tracking and attendance
 
-### 📡 Emergency Communication Network
+---
 
-* Android-based offline communication system
-* Enabled SOS messaging without internet
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vicky-Github-1&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vicky-Github-1&theme=tokyonight" height="150">
+</p>
+
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/[YOUR_LEETCODE_USERNAME](https://leetcode.com/u/ShubhGPT/)?theme=dark&font=baloo&ext=heatmap">
+</p>
 
 ---
 
@@ -58,4 +76,3 @@
 ## 📫 Contact
 
 📧 [shubhamgupta23844@gmail.com](mailto:shubhamgupta23844@gmail.com)
-
