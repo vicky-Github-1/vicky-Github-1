@@ -53,7 +53,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vicky-Github-1&show_icons=true&theme=tokyonight&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=vicky-Github-1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150">
 </p>
 
 ---
@@ -62,10 +62,7 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ShubhGPT?theme=dark&font=baloo&ext=heatmap" height="200">
-</p>
-
-<p align="center">
-  <img src="https://codechef-stats-api.vercel.app/shubh_gupta23" />
+  <img src="https://codechef-stats-api.vercel.app/shubh_gupta23" height="200">
 </p>
 
 ---
