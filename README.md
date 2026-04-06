@@ -62,7 +62,12 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ShubhGPT?theme=dark&font=baloo&ext=heatmap" height="200">
-  <img src="https://codechef-stats-api.vercel.app/shubh_gupta23" height="200">
+</p>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/shubh_gupta23">
+    <img src="https://img.shields.io/badge/CodeChef%20Profile-View-orange?style=for-the-badge&logo=codechef&logoColor=white">
+  </a>
 </p>
 
 ---
